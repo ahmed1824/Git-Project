@@ -1,3 +1,0 @@
-# Git-Project
-
-## Project Notes 
